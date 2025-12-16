@@ -192,17 +192,6 @@ Do NOT extract `.002`, `.003`, etc. individually.
 ## 📁 General Folder Structure (Example)
 
 ```text
-PLACEMENT/
-│
-├── Aptitude/
-├── Reasoning/
-├── DSA/
-├── LeetCode/
-├── Programming/
-├── Company-Wise/
-├── Core-Subjects/
-├── Interview/
-└── Miscellaneous/
 
 (Exact structure may vary, but all resources are included.)
 📜 Usage Policy
